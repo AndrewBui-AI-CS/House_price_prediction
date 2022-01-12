@@ -1,0 +1,50 @@
+price: giá (tỷ)
+
+area: diện tích (m2) (số thực)
+
+floor_number*: số tầng (số nguyên từ 1 đến 8)
+
+bedroom_number*: số phòng ngủ (số nguyên từ 2 đến 8)
+
+is_dinning_room*: có phòng ăn hay không
+	TRUE: có
+	FALSE: không
+
+is_kitchen*: có phòng bếp hay không
+	TRUE: có
+	FALSE: không
+
+is_terrace*: có sân thượng hay không
+	TRUE: có
+	FALSE: không
+
+type*: kiểu nhà
+	Nhà mặt tiền
+	Nhà trong hẻm
+
+direction*: hướng nhà
+	None
+	Đông Nam
+	Nam
+	Tây Nam
+	Đông
+	Tây
+	Bắc
+	Đông Bắc
+	Tây Bắc
+
+street_in_front_of_house: độ dài mặt đường (m) (số thực từ 0 đến 15)
+
+width: chiều rộng (m) (số thực từ 2 đến 7)
+
+height: chiều dài (m) (số thực từ 0 đến 30)
+
+city*: thành phố
+	Hà Nội
+	Hồ Chí Minh
+
+district*: kiểu quận, huyện
+	Nội thành
+	Ngoại thành
+
+Note: * là các thuộc tính cần visualize
