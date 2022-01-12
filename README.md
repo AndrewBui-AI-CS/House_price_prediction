@@ -1,12 +1,16 @@
-## house-price-prediction
+# House price prediction 
 
-Predict housing prices in Vietnam by machine learning algorithms
+Predict housing prices by machine learning algorithms of 2 major cities in Vietnam: Ha Noi and Ho Chi Minh.
 
-## Data
+## Description
+In this repo, we built a small demo of our project at Ha Noi university of Science and Technology. 
+In this project, we did these 4 main things: 
+- Crawling data from [https://alonhadat.com.vn/](https://alonhadat.com.vn/) wit scrapy, see folder `crawl`
+- Conducting exploratory data analysis and visualization of data
+- Build models for prediction
+- Create a little web app for the purpose of presentation. 
 
-Data crawl from [https://alonhadat.com.vn/](https://alonhadat.com.vn/) wit scrapy, see folder `crawl`
-
-## Run:
+## Installation
 
 ```
 pip install -r requirements.txt
@@ -24,3 +28,12 @@ python3 app.py
 npm install
 npm start
 ```
+## Authors: 
+*  **Nguyễn Quang Huy** <br> 
+*  **Trần Quang Minh** <br> 
+*  **Bùi Việt Hoàng** <br> 
+*  **Ngô Song Việt Hoàng** <br> 
+*  **Nguyễn Văn Thanh** <br> 
+
+## Acknowledgements
+You can follow this link to the original project we did: https://github.com/trannguyenhan/house-price-prediction
