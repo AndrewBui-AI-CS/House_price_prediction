@@ -29,11 +29,11 @@ npm install
 npm start
 ```
 ## Authors: 
-*  **Nguyễn Quang Huy** <br> 
-*  **Trần Quang Minh** <br> 
-*  **Bùi Việt Hoàng** <br> 
-*  **Ngô Song Việt Hoàng** <br> 
-*  **Nguyễn Văn Thanh** <br> 
+*  **Nguyễn Quang Huy** 
+*  **Trần Quang Minh** 
+*  **Ngô Song Việt Hoàng** 
+*  **Nguyễn Văn Thanh** 
+*  **Bùi Việt Hoàng** 
 
 ## Acknowledgements
 You can follow this link to the original project we did: https://github.com/trannguyenhan/house-price-prediction
